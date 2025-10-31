@@ -1,0 +1,101 @@
+[
+  {
+    "titleEn": "Core",
+    "titleCz": "Core",
+    "members": [
+      {
+        "picture": "/team/vasek.png",
+        "name": "Václav Mašek",
+        "roleEn": "Founder, Programming, Electronics",
+        "roleCz": "Zakladatel, Programování, Elektronika"
+      },
+      {
+        "picture": "/team/jara.png",
+        "name": "Jaroslav Sýkora",
+        "roleEn": "Co-Founder, Management",
+        "roleCz": "Spoluzakladatel, Management",
+        "link": "https://www.linkedin.com/in/jaroslav-s%C3%BDkora-44024a213/"
+      },
+      {
+        "picture": "/team/dominik.png",
+        "name": "Dominik Fink",
+        "roleEn": "Co-Founder, Construction",
+        "roleCz": "Spoluzakladatel, Konstrukce"
+      },
+      {
+        "picture": "/team/kuba.png",
+        "name": "Jakub Fiala",
+        "roleEn": "Co-Founder, Construction",
+        "roleCz": "Spoluzakladatel, Konstrukce"
+      },
+      {
+        "picture": "/team/mikulas.png",
+        "name": "Mikuláš Vaněček",
+        "roleEn": "Software Department Leader",
+        "roleCz": "Vedoucí Softwarové Sekce",
+        "link": "https://mikulas.vanecek.info"
+      },
+      {
+        "picture": "/team/altynnur.png",
+        "name": "Altynnur Kubanychbeková",
+        "roleEn": "Social Networks",
+        "roleCz": "Sociální Sítě"
+      }
+    ]
+  },
+  {
+    "titleEn": "Software",
+    "titleCz": "Software",
+    "members": [
+      {
+        "picture": "/team/mikulas.png",
+        "name": "Mikuláš Vaněček",
+        "roleEn": "Leader",
+        "roleCz": "Vedoucí",
+        "link": "https://mikulas.vanecek.info"
+      },
+      {
+        "picture": "/team/vasek.png",
+        "name": "Václav Mašek",
+        "roleEn": "Firmware",
+        "roleCz": "Firmware"
+      },
+      {
+        "picture": "/team/pavel.png",
+        "name": "Pavel Halačka",
+        "roleEn": "Software",
+        "roleCz": "Software"
+      }
+    ]
+  },
+  {
+    "titleEn": "Electronics",
+    "titleCz": "Elektronika",
+    "members": [
+      {
+        "picture": "/team/vasek.png",
+        "name": "Václav Mašek",
+        "roleEn": "Leader",
+        "roleCz": "Vedoucí"
+      }
+    ]
+  },
+  {
+    "titleEn": "Construction",
+    "titleCz": "Konstrukce",
+    "members": [
+      {
+        "picture": "/team/dominik.png",
+        "name": "Dominik Fink",
+        "roleEn": "Leader",
+        "roleCz": "Vedoucí"
+      },
+      {
+        "picture": "/team/kuba.png",
+        "name": "Jakub Fiala",
+        "roleEn": "Construction",
+        "roleCz": "Konstruktér"
+      }
+    ]
+  }
+]
