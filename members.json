@@ -6,21 +6,22 @@
       {
         "picture": "/team/vasek.png",
         "name": "Václav Mašek",
-        "roleEn": "Founder, Programming, Electronics",
-        "roleCz": "Zakladatel, Programování, Elektronika"
+        "roleEn": "Founder, Electronics, Science, PR & HR",
+        "roleCz": "Zakladatel, Elektronika, Věda, PR & HR",
+        "link": "https://www.linkedin.com/in/vasmas/"
       },
       {
         "picture": "/team/jara.png",
         "name": "Jaroslav Sýkora",
-        "roleEn": "Co-Founder, Management",
-        "roleCz": "Spoluzakladatel, Management",
+        "roleEn": "Co-Founder, Management, PR & HR",
+        "roleCz": "Spoluzakladatel, Management, PR & HR",
         "link": "https://www.linkedin.com/in/jaroslav-s%C3%BDkora-44024a213/"
       },
       {
         "picture": "/team/dominik.png",
         "name": "Dominik Fink",
-        "roleEn": "Co-Founder, Construction",
-        "roleCz": "Spoluzakladatel, Konstrukce"
+        "roleEn": "Co-Founder, Construction, Manufacturing",
+        "roleCz": "Spoluzakladatel, Konstrukce, Výroba"
       },
       {
         "picture": "/team/kuba.png",
@@ -31,13 +32,40 @@
       {
         "picture": "/team/mikulas.png",
         "name": "Mikuláš Vaněček",
-        "roleEn": "Software Department Leader",
-        "roleCz": "Vedoucí Softwarové Sekce",
+        "roleEn": "Software",
+        "roleCz": "Software",
         "link": "https://mikulas.vanecek.info"
+      }
+    ]
+  },
+  {
+    "titleEn": "PR & HR",
+    "titleCz": "PR & HR",
+    "members": [
+      {
+        "picture": "/team/vasek.png",
+        "name": "Václav Mašek",
+        "roleEn": "PR & HR",
+        "roleCz": "PR & HR",
+        "link": "https://www.linkedin.com/in/vasmas/"
+      },
+      {
+        "picture": "/team/jara.png",
+        "name": "Jaroslav Sýkora",
+        "roleEn": "PR & HR",
+        "roleCz": "PR & HR",
+        "link": "https://www.linkedin.com/in/jaroslav-s%C3%BDkora-44024a213/"
       },
       {
         "picture": "/team/altynnur.png",
         "name": "Altynnur Kubanychbeková",
+        "roleEn": "Social Networks",
+        "roleCz": "Sociální Sítě",
+        "link": "https://www.instagram.com/kubanychbekovaaltynnur?igsh=MnhnYmYxaDZhb2E0"
+      },
+      {
+        "picture": "/team/katerina.png",
+        "name": "Kateřina Korousová",
         "roleEn": "Social Networks",
         "roleCz": "Sociální Sítě"
       }
@@ -55,14 +83,27 @@
         "link": "https://mikulas.vanecek.info"
       },
       {
-        "picture": "/team/vasek.png",
-        "name": "Václav Mašek",
-        "roleEn": "Firmware",
-        "roleCz": "Firmware"
-      },
-      {
         "picture": "/team/pavel.png",
         "name": "Pavel Halačka",
+        "roleEn": "Software",
+        "roleCz": "Software"
+      },
+      {
+        "picture": "/team/rover.png",
+        "name": "Michal Štein",
+        "roleEn": "Software",
+        "roleCz": "Software",
+        "link": "https://dexterhaxxor.dev/"
+      },
+      {
+        "picture": "/team/vojta.png",
+        "name": "Vojta Bartoň",
+        "roleEn": "Software",
+        "roleCz": "Software"
+      },
+      {
+        "picture": "/team/ondra.png",
+        "name": "Ondřej Fiala",
         "roleEn": "Software",
         "roleCz": "Software"
       }
@@ -76,7 +117,26 @@
         "picture": "/team/vasek.png",
         "name": "Václav Mašek",
         "roleEn": "Leader",
-        "roleCz": "Vedoucí"
+        "roleCz": "Vedoucí",
+        "link": "https://www.linkedin.com/in/vasmas/"
+      },
+      {
+        "picture": "/team/adamn.png",
+        "name": "Adam Nedvěd",
+        "roleEn": "Electronics",
+        "roleCz": "Elektronika"
+      },
+      {
+        "picture": "/team/rover.png",
+        "name": "Hieu Le Cong",
+        "roleEn": "Electronics",
+        "roleCz": "Elektronika"
+      },
+      {
+        "picture": "/team/vojta.png",
+        "name": "Vojta Bartoň",
+        "roleEn": "Electronics",
+        "roleCz": "Elektronika"
       }
     ]
   },
@@ -85,16 +145,96 @@
     "titleCz": "Konstrukce",
     "members": [
       {
+        "picture": "/team/kuba.png",
+        "name": "Jakub Fiala",
+        "roleEn": "Leader",
+        "roleCz": "Vedoucí"
+      },
+      {
+        "picture": "/team/dominik.png",
+        "name": "Dominik Fink",
+        "roleEn": "Construction",
+        "roleCz": "Konstruktér"
+      },
+      {
+        "picture": "/team/rover.png",
+        "name": "Adam Muff",
+        "roleEn": "Construction",
+        "roleCz": "Konstruktér"
+      },
+      {
+        "picture": "/team/adamn.png",
+        "name": "Adam Nedvěd",
+        "roleEn": "Construction",
+        "roleCz": "Konstruktér"
+      },
+      {
+        "picture": "/team/altynnur.png",
+        "name": "Altynnur Kubanychbeková",
+        "roleEn": "Construction",
+        "roleCz": "Konstruktérka",
+        "link": "https://www.instagram.com/kubanychbekovaaltynnur?igsh=MnhnYmYxaDZhb2E0"
+      },
+      {
+        "picture": "/team/honza.png",
+        "name": "Jan Maruška",
+        "roleEn": "Construction",
+        "roleCz": "Konstruktér"
+      }
+    ]
+  },
+  {
+    "titleEn": "Manufacturing",
+    "titleCz": "Výroba",
+    "members": [
+      {
         "picture": "/team/dominik.png",
         "name": "Dominik Fink",
         "roleEn": "Leader",
         "roleCz": "Vedoucí"
       },
       {
-        "picture": "/team/kuba.png",
-        "name": "Jakub Fiala",
-        "roleEn": "Construction",
-        "roleCz": "Konstruktér"
+        "picture": "/team/adamb.png",
+        "name": "Adam Bečvář",
+        "roleEn": "Manufacturing",
+        "roleCz": "Výroba"
+      }
+    ]
+  },
+  {
+    "titleEn": "Science",
+    "titleCz": "Věda",
+    "members": [
+      {
+        "picture": "/team/vasek.png",
+        "name": "Václav Mašek",
+        "roleEn": "Science",
+        "roleCz": "Věda"
+      },
+      {
+        "picture": "/team/jana.png",
+        "name": "Jana Forejtová",
+        "roleEn": "Science",
+        "roleCz": "Věda"
+      },
+      {
+        "picture": "/team/honza.png",
+        "name": "Jan Maruška",
+        "roleEn": "Science",
+        "roleCz": "Věda"
+      }
+    ]
+  },
+  {
+    "titleEn": "Ex-Members",
+    "titleCz": "Bývalí členové",
+    "members": [
+      {
+        "picture": "/team/tomas.png",
+        "name": "Tomáš Blažek",
+        "roleEn": "Construction, Electronics",
+        "roleCz": "Konstruktér, Elektronika",
+        "link": "https://www.linkedin.com/in/tom%C3%A1%C5%A1-bla%C5%BEek-22198331b/"
       }
     ]
   }
